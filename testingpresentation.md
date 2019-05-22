@@ -133,7 +133,7 @@ vs. indpendently testing states becomes
 ---
 # Some Coding Techniques  
 ## Favor Value Oriented Programming Over Place Oriented Programming  
---- 
+---
 ## Values vs Places 
 * Facts are not places that you change
 * Facts are Values
